@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Redis, Socket, .....**
+- 💬 Ask me about **Redis, SocketIO, .....**
 
 - 📫 How to reach me **vietlh0207@gmail.com**
 
