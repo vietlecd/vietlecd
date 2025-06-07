@@ -17,7 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/viet-le-1431b52b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/việt-lê-1431b52b8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viet-le-hoang-1431b52b8" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="LinkedIn - Viet Le Hoang" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/vietle_cd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vietle_cd" height="30" width="40" /></a>
 </p>
 
